@@ -7,7 +7,7 @@ License:	GPL
 Group:		Applications/Games
 Source0:	http://download.berlios.de/netris-ng/%{name}-%{version}.tar.bz2
 # Source0-md5:	f49f1952f8d5ade893ecf287a60ecdc2
-URL:		http://netris-ng.berlios.de
+URL:		http://netris-ng.berlios.de/
 BuildRequires:	ncurses-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
