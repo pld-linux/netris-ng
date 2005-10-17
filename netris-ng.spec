@@ -1,12 +1,12 @@
 Summary:	netris next generation
 Summary(pl):	netris, nastêpna generacja
 Name:		netris-ng
-Version:	0.01
+Version:	0.015
 Release:	1
-License:	GPL
+License:	GPL v2
 Group:		Applications/Games
 Source0:	http://download.berlios.de/netris-ng/%{name}-%{version}.tar.bz2
-# Source0-md5:	f49f1952f8d5ade893ecf287a60ecdc2
+# Source0-md5:	c15d259e91e933a3fc5839ccf9b5c9ab
 URL:		http://netris-ng.berlios.de/
 BuildRequires:	ncurses-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
