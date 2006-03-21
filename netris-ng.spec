@@ -23,6 +23,7 @@ Klon netrisa.
 %build
 ./Configure
 %{__make} \
+	CC="%{__cc}" \
 	CFLAGS="%{rpmcflags} -DNDEBUG -I/usr/include/ncurses" \
 	LFLAGS="%{rpmldflags} -lncurses"
 
