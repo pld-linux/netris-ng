@@ -1,5 +1,5 @@
 Summary:	netris next generation
-Summary(pl.UTF-8):   netris, następna generacja
+Summary(pl.UTF-8):	netris, następna generacja
 Name:		netris-ng
 Version:	0.015
 Release:	1
