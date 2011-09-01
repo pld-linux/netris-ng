@@ -2,7 +2,7 @@ Summary:	netris next generation
 Summary(pl.UTF-8):	netris, następna generacja
 Name:		netris-ng
 Version:	0.015
-Release:	2
+Release:	3
 License:	GPL v2
 Group:		Applications/Games
 Source0:	http://download.berlios.de/netris-ng/%{name}-%{version}.tar.bz2
